@@ -12,8 +12,11 @@ class Post
   end
   
   def author_name 
-    author
-    
+    author.name
   end
+  
+  def add_post_by_title(new_post)
+    
+  end 
   
 end 
