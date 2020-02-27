@@ -16,5 +16,7 @@ class Author
   end 
   
   def add_post_by_title(new_post)
+    
+  end
   
 end 
