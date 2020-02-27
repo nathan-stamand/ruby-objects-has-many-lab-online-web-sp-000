@@ -15,7 +15,7 @@ class Song
     if !artist
       nil 
     else 
-      artist 
+      self.artist 
     end
   end
   
