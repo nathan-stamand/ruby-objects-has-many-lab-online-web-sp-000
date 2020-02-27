@@ -18,5 +18,7 @@ class Post
       author 
     end
   end
+  
+  end
 
 end 
