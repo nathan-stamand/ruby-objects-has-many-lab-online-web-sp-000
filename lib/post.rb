@@ -15,7 +15,7 @@ class Post
     if !author
       nil 
     else 
-      author 
+      author.name
     end
   end
 
