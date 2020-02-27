@@ -17,6 +17,6 @@ class Post
     else 
       author 
     end
-  end
+
 
 end 
